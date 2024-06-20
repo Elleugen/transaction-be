@@ -66,7 +66,7 @@ The application uses a PostgreSQL database. Here are the main tables and their f
 ### Step-by-Step Guide
 
 1. **Setup PostgreSQL Database**
-- Create a new PostgreSQL database, then update application.properties with your credential or import the database from repo.
+- Create a new PostgreSQL database, then update application.properties with your credential or import the database from repo(transactions.sql).
 
 2. **Run the Backend**
 - Run the backend using this command: 
